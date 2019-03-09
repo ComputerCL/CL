@@ -1,0 +1,3 @@
+"WinServiceHosting.exe" -u
+
+Pause

@@ -1,0 +1,16 @@
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\Hosting.exe.config
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\Hosting.exe
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\Hosting.pdb
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\WCF.WcfService.dll
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\WCF.Model.dll
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\SCF.Common.dll
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\EntityFramework.dll
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\WCF.WcfService.pdb
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\WCF.Model.pdb
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\SCF.Common.pdb
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\EntityFramework.xml
+F:\MyProject\WCF.WcfService\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+F:\MyProject\WCF.WcfService\Hosting\obj\Debug\Hosting.exe
+F:\MyProject\WCF.WcfService\Hosting\obj\Debug\Hosting.pdb
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\EntityFramework.SqlServer.dll
+F:\MyProject\WCF.WcfService\Hosting\bin\Debug\EntityFramework.SqlServer.xml

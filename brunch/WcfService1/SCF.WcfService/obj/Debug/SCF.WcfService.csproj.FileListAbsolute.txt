@@ -1,0 +1,9 @@
+F:\MyProject\WcfService1\SCF.WcfService\bin\Debug\SCF.WcfService.dll
+F:\MyProject\WcfService1\SCF.WcfService\bin\Debug\SCF.WcfService.pdb
+F:\MyProject\WcfService1\SCF.WcfService\bin\Debug\SCF.Common.dll
+F:\MyProject\WcfService1\SCF.WcfService\bin\Debug\SCF.Model.dll
+F:\MyProject\WcfService1\SCF.WcfService\bin\Debug\SCF.Common.pdb
+F:\MyProject\WcfService1\SCF.WcfService\bin\Debug\SCF.Model.pdb
+F:\MyProject\WcfService1\SCF.WcfService\obj\Debug\SCF.WcfService.csprojResolveAssemblyReference.cache
+F:\MyProject\WcfService1\SCF.WcfService\obj\Debug\SCF.WcfService.dll
+F:\MyProject\WcfService1\SCF.WcfService\obj\Debug\SCF.WcfService.pdb

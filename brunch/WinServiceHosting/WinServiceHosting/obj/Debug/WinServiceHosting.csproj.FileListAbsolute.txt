@@ -1,0 +1,8 @@
+F:\MyProject\WinServiceHosting\WinServiceHosting\bin\Debug\WinServiceHosting.exe.config
+F:\MyProject\WinServiceHosting\WinServiceHosting\bin\Debug\WinServiceHosting.exe
+F:\MyProject\WinServiceHosting\WinServiceHosting\bin\Debug\WinServiceHosting.pdb
+F:\MyProject\WinServiceHosting\WinServiceHosting\bin\Debug\WcfServiceLib.dll
+F:\MyProject\WinServiceHosting\WinServiceHosting\obj\Debug\WinServiceHosting.ProjectInstaller.resources
+F:\MyProject\WinServiceHosting\WinServiceHosting\obj\Debug\WinServiceHosting.csproj.GenerateResource.Cache
+F:\MyProject\WinServiceHosting\WinServiceHosting\obj\Debug\WinServiceHosting.exe
+F:\MyProject\WinServiceHosting\WinServiceHosting\obj\Debug\WinServiceHosting.pdb

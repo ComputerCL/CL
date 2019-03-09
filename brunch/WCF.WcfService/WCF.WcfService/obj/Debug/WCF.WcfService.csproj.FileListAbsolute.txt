@@ -1,0 +1,14 @@
+F:\MyProject\WCF.WcfService\WCF.WcfService\bin\WCF.WcfService.dll.config
+F:\MyProject\WCF.WcfService\WCF.WcfService\bin\WCF.WcfService.dll
+F:\MyProject\WCF.WcfService\WCF.WcfService\bin\WCF.WcfService.pdb
+F:\MyProject\WCF.WcfService\WCF.WcfService\bin\EntityFramework.dll
+F:\MyProject\WCF.WcfService\WCF.WcfService\bin\EntityFramework.SqlServer.dll
+F:\MyProject\WCF.WcfService\WCF.WcfService\bin\EntityFramework.xml
+F:\MyProject\WCF.WcfService\WCF.WcfService\bin\EntityFramework.SqlServer.xml
+F:\MyProject\WCF.WcfService\WCF.WcfService\obj\Debug\WCF.WcfService.dll
+F:\MyProject\WCF.WcfService\WCF.WcfService\obj\Debug\WCF.WcfService.pdb
+F:\MyProject\WCF.WcfService\WCF.WcfService\bin\SCF.Common.dll
+F:\MyProject\WCF.WcfService\WCF.WcfService\bin\WCF.Model.dll
+F:\MyProject\WCF.WcfService\WCF.WcfService\bin\SCF.Common.pdb
+F:\MyProject\WCF.WcfService\WCF.WcfService\bin\WCF.Model.pdb
+F:\MyProject\WCF.WcfService\WCF.WcfService\obj\Debug\WCF.WcfService.csprojResolveAssemblyReference.cache

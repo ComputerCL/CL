@@ -1,0 +1,11 @@
+F:\MyProject\WcfServiceLib\WcfServiceLib\bin\Debug\WcfServiceLib.dll.config
+F:\MyProject\WcfServiceLib\WcfServiceLib\bin\Debug\WcfServiceLib.dll
+F:\MyProject\WcfServiceLib\WcfServiceLib\bin\Debug\WcfServiceLib.pdb
+F:\MyProject\WcfServiceLib\WcfServiceLib\bin\Debug\EntityFramework.dll
+F:\MyProject\WcfServiceLib\WcfServiceLib\bin\Debug\EntityFramework.SqlServer.dll
+F:\MyProject\WcfServiceLib\WcfServiceLib\bin\Debug\EntityFramework.xml
+F:\MyProject\WcfServiceLib\WcfServiceLib\bin\Debug\EntityFramework.SqlServer.xml
+F:\MyProject\WcfServiceLib\WcfServiceLib\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\MyProject\WcfServiceLib\WcfServiceLib\obj\Debug\WcfServiceLib.csprojResolveAssemblyReference.cache
+F:\MyProject\WcfServiceLib\WcfServiceLib\obj\Debug\WcfServiceLib.dll
+F:\MyProject\WcfServiceLib\WcfServiceLib\obj\Debug\WcfServiceLib.pdb

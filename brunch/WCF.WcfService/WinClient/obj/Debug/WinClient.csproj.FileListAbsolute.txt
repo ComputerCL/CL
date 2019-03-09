@@ -1,0 +1,17 @@
+F:\MyProject\WCF.WcfService\WinClient\bin\Debug\WinClient.exe.config
+F:\MyProject\WCF.WcfService\WinClient\bin\Debug\WinClient.exe
+F:\MyProject\WCF.WcfService\WinClient\bin\Debug\WinClient.pdb
+F:\MyProject\WCF.WcfService\WinClient\obj\Debug\WinClient.csprojResolveAssemblyReference.cache
+F:\MyProject\WCF.WcfService\WinClient\obj\Debug\WinClient.Form1.resources
+F:\MyProject\WCF.WcfService\WinClient\obj\Debug\WinClient.Properties.Resources.resources
+F:\MyProject\WCF.WcfService\WinClient\obj\Debug\WinClient.csproj.GenerateResource.Cache
+F:\MyProject\WCF.WcfService\WinClient\obj\Debug\WinClient.exe
+F:\MyProject\WCF.WcfService\WinClient\obj\Debug\WinClient.pdb
+F:\MyProject\WCF.WcfService\WinClient\bin\Debug\WCF.WcfService.dll
+F:\MyProject\WCF.WcfService\WinClient\bin\Debug\WCF.Model.dll
+F:\MyProject\WCF.WcfService\WinClient\bin\Debug\SCF.Common.dll
+F:\MyProject\WCF.WcfService\WinClient\bin\Debug\EntityFramework.dll
+F:\MyProject\WCF.WcfService\WinClient\bin\Debug\WCF.WcfService.pdb
+F:\MyProject\WCF.WcfService\WinClient\bin\Debug\WCF.Model.pdb
+F:\MyProject\WCF.WcfService\WinClient\bin\Debug\SCF.Common.pdb
+F:\MyProject\WCF.WcfService\WinClient\bin\Debug\EntityFramework.xml

@@ -1,0 +1,7 @@
+F:\MyProject\ConsoleHosting\ConsoleHosting\bin\Debug\ConsoleHosting.exe.config
+F:\MyProject\ConsoleHosting\ConsoleHosting\bin\Debug\ConsoleHosting.exe
+F:\MyProject\ConsoleHosting\ConsoleHosting\bin\Debug\ConsoleHosting.pdb
+F:\MyProject\ConsoleHosting\ConsoleHosting\bin\Debug\WcfServiceLib.dll
+F:\MyProject\ConsoleHosting\ConsoleHosting\obj\Debug\ConsoleHosting.csprojResolveAssemblyReference.cache
+F:\MyProject\ConsoleHosting\ConsoleHosting\obj\Debug\ConsoleHosting.exe
+F:\MyProject\ConsoleHosting\ConsoleHosting\obj\Debug\ConsoleHosting.pdb

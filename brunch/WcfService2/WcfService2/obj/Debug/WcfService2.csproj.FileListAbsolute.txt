@@ -1,0 +1,10 @@
+F:\MyProject\WcfService2\WcfService2\bin\WcfService2.dll.config
+F:\MyProject\WcfService2\WcfService2\bin\WcfService2.dll
+F:\MyProject\WcfService2\WcfService2\bin\WcfService2.pdb
+F:\MyProject\WcfService2\WcfService2\bin\EntityFramework.dll
+F:\MyProject\WcfService2\WcfService2\bin\EntityFramework.SqlServer.dll
+F:\MyProject\WcfService2\WcfService2\bin\EntityFramework.xml
+F:\MyProject\WcfService2\WcfService2\bin\EntityFramework.SqlServer.xml
+F:\MyProject\WcfService2\WcfService2\bin\zh-Hans\EntityFramework.resources.dll
+F:\MyProject\WcfService2\WcfService2\obj\Debug\WcfService2.dll
+F:\MyProject\WcfService2\WcfService2\obj\Debug\WcfService2.pdb

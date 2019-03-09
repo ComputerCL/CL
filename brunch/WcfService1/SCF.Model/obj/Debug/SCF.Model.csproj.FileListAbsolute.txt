@@ -1,0 +1,5 @@
+F:\MyProject\WcfService1\SCF.Model\bin\Debug\SCF.Model.dll
+F:\MyProject\WcfService1\SCF.Model\bin\Debug\SCF.Model.pdb
+F:\MyProject\WcfService1\SCF.Model\obj\Debug\SCF.Model.csprojResolveAssemblyReference.cache
+F:\MyProject\WcfService1\SCF.Model\obj\Debug\SCF.Model.dll
+F:\MyProject\WcfService1\SCF.Model\obj\Debug\SCF.Model.pdb

@@ -1,0 +1,11 @@
+F:\MyProject\WCF.WcfService\WCF.Model\bin\Debug\WCF.Model.dll.config
+F:\MyProject\WCF.WcfService\WCF.Model\bin\Debug\WCF.Model.dll
+F:\MyProject\WCF.WcfService\WCF.Model\bin\Debug\WCF.Model.pdb
+F:\MyProject\WCF.WcfService\WCF.Model\bin\Debug\EntityFramework.dll
+F:\MyProject\WCF.WcfService\WCF.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\MyProject\WCF.WcfService\WCF.Model\bin\Debug\EntityFramework.xml
+F:\MyProject\WCF.WcfService\WCF.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\MyProject\WCF.WcfService\WCF.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\MyProject\WCF.WcfService\WCF.Model\obj\Debug\WCF.Model.dll
+F:\MyProject\WCF.WcfService\WCF.Model\obj\Debug\WCF.Model.pdb
+F:\MyProject\WCF.WcfService\WCF.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
